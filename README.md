@@ -2,7 +2,7 @@
 
  <br> 
 My software curiosity started in 2003 with the computer that came home at 6 years old.<br>
-<br> Now i'm working on Object Oriented, Blockchain and Frontend Programming
+<br> Now i'm working on Object Oriented, Blockchain and Frontend Programming :muscle:
 I hope it would be usefull for you 
 
 ### Contact with me;

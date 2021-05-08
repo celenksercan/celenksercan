@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**celenksercan/celenksercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br> 
+My software curiosity started in 2003 with the computer that came home at 6 years old.<br>
+<br> Now i'm working on Object Oriented, Blockchain and Frontend Programming
+I hope it would be usefull for you 
 
-Here are some ideas to get you started:
+### Contact with me;
+https://www.linkedin.com/in/sercan-celenk/ </br>
+sercancelenk34@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sercan's github stats](https://github-readme-stats.vercel.app/api?username=sercancelenk34) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercancelenk34)
+

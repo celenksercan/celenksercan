@@ -9,6 +9,6 @@ I hope it would be usefull for you
 https://www.linkedin.com/in/sercan-celenk/ </br>
 sercancelenk34@hotmail.com
 
-![Sercan's github stats](https://github-readme-stats.vercel.app/api?username=sercancelenk34) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercancelenk34)
+![Sercan's github stats](https://github-readme-stats.vercel.app/api?username=celenksercan) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celenksercan)
 

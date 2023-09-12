@@ -1,8 +1,15 @@
 ### Hi there 👋
 
  <br> 
-My software curiosity started in 2003 with the computer that came home at 6 years old.<br>
-<br> Now i'm working on Object Oriented, Blockchain and Frontend Programming :muscle:
+My career, which started with software, continues with devops and opensource.
+
+Advanced AWS Infrastructure Management (EC2, ELB, ALB, S3, CDN, VPC)
+Advanced linux knowledge and experience (Ubuntu, Debian)
+Advanced docker knowledge and experience (NGINX, ElasticStack, Apache, MySQL, NextCloud, Redis, Node, Pi-Hole)
+Knowledge and experienced in CI/CD pipeline (Bitbucket)
+Knowledged in Kubernetes (CKA)
+Experienced in virtualization (VMware)
+Experienced in backup (Veeam)
 
 
 ### Contact with me;

@@ -3,13 +3,13 @@
  <br> 
 My career, which started with software, continues with devops and opensource.
 
-Advanced AWS Infrastructure Management (EC2, ELB, ALB, S3, CDN, VPC)
-Advanced linux knowledge and experience (Ubuntu, Debian)
-Advanced docker knowledge and experience (NGINX, ElasticStack, Apache, MySQL, NextCloud, Redis, Node, Pi-Hole)
-Knowledge and experienced in CI/CD pipeline (Bitbucket)
-Knowledged in Kubernetes (CKA)
-Experienced in virtualization (VMware)
-Experienced in backup (Veeam)
+Advanced AWS Infrastructure Management (EC2, ELB, ALB, S3, CDN, VPC)<br>
+Advanced linux knowledge and experience (Ubuntu, Debian)<br>
+Advanced docker knowledge and experience (NGINX, ElasticStack, Apache, MySQL, NextCloud, Redis, Node, Pi-Hole)<br>
+Knowledge and experienced in CI/CD pipeline (Bitbucket)<br>
+Knowledged in Kubernetes (CKA)<br>
+Experienced in virtualization (VMware)<br>
+Experienced in backup (Veeam)<br>
 
 
 ### Contact with me;
